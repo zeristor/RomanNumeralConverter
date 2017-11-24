@@ -6,7 +6,7 @@ It does some validation, and some checking to ensure the inputs are valid Roman 
 
 ## Prerequisites
 
-This was developed using Python 3.5
+This was developed using Python 3.6
 
 
 ## License
